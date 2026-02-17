@@ -13,7 +13,7 @@ I'm a software engineering student passionate about building clean and efficient
 * 🌱 I'm currently exploring Website development.
 * 🌐 I'm also confortable with web technologies, including **Vanilla JS**, **HTML5**, and **CSS3**.
 * 🤖 I'm fascinated by AI and machine learning, and I'm experimenting with **Google Gemini** and **Deepseek**.
-* 👀 Currently developing **LyncMod** and **Stylify**, take a look at them. You might find them useful!
+* 👀 Currently developing **LyncMod** and <a href="https://stylify-windows.vercel.app/">**Stylify**</a>, take a look at them. You might find them useful!
 
 ---
 
