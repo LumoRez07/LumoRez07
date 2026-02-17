@@ -9,11 +9,11 @@
 ### About me 🚀
 
 I'm a software engineering student passionate about building clean and efficient applications.<br>
-* 💻 My main focus since December 1 is on website development .
+* 💻 My main focus since December 1 2025 is on website development .
 * 🌱 I'm currently exploring Website development.
 * 🌐 I'm also confortable with web technologies, including **Vanilla JS**, **HTML5**, and **CSS3**.
-* 🤖 I'm fascinated by AI and machine learning, and I'm experimenting with **Google Gemini**.
-* 👀 Currently developing a website named **LyncMod**, take a look at it. You might find it useful!
+* 🤖 I'm fascinated by AI and machine learning, and I'm experimenting with **Google Gemini** and **Deepseek**.
+* 👀 Currently developing **LyncMod** and **Stylify**, take a look at them. You might find them useful!
 
 ---
 
